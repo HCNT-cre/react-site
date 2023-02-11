@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.78ec93dc.css","mappings":"AAAA,KAGE,iBAAiB,CAFjB,iBAAkB,CAClB,qBAEF","sources":["App.css"],"sourcesContent":["main {\n  text-align: center;\n  vertical-align: center;\n  line-height: 100vh\n}"],"names":[],"sourceRoot":""}
